@@ -1,4 +1,4 @@
-# deep_learning_t2
+# Deep Learning with TF 2.0
 
 ## Source
 This repository is based on the Deep Learning With Tensorflow 2.0, Keras and Python by codebasics.
